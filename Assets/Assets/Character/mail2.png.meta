@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 14ec044f50ae93c458419ab9f6853f91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2514224301147653938
+    second: mail2_0
+  - first:
+      213: -6238493941723755679
+    second: mail2_1
+  - first:
+      213: -1694997628447495736
+    second: mail2_2
+  - first:
+      213: 807625132871188506
+    second: mail2_3
+  - first:
+      213: -8416278913185872738
+    second: mail2_4
+  - first:
+      213: -8100118150681812929
+    second: mail2_5
+  - first:
+      213: 7280982839156930194
+    second: mail2_6
+  - first:
+      213: -1440103300363144150
+    second: mail2_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mail2_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1118
+        width: 170
+        height: 532
+      alignment: 9
+      pivot: {x: 0.46080142, y: 0.9008305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8707ca15eab1dd0800000000000000
+      internalID: -2514224301147653938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1119
+        width: 171
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.88903576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b012e10da6c69a0800000000000000
+      internalID: -6238493941723755679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1155
+        width: 628
+        height: 659
+      alignment: 9
+      pivot: {x: 0.37204698, y: 0.12403733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e14d23a82a78e0800000000000000
+      internalID: -1694997628447495736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 92
+        height: 528
+      alignment: 9
+      pivot: {x: 0.64850867, y: 0.9334325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10077487c2453b00800000000000000
+      internalID: 807625132871188506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 418
+        width: 92
+        height: 527
+      alignment: 9
+      pivot: {x: 0.6812267, y: 0.93875104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9402f87bee533b80800000000000000
+      internalID: -8416278913185872738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 425
+        height: 985
+      alignment: 9
+      pivot: {x: 0.4527321, y: 0.07851345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30aaed4579969f80800000000000000
+      internalID: -8100118150681812929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 238
+        height: 190
+      alignment: 9
+      pivot: {x: 0.34836203, y: 0.56331545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296f9afd05f3b0560800000000000000
+      internalID: 7280982839156930194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mail2_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 238
+        height: 191
+      alignment: 9
+      pivot: {x: 0.3736353, y: 0.5629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24bcf5ada9b30ce0800000000000000
+      internalID: -1440103300363144150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

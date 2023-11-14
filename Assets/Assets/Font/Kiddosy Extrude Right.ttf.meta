@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 5d21472624117504a9207f998fd5185e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kiddosy Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3191a72dbcaa55749ae3868c131e8ee5, type: 3}
+  - {fileID: 12800000, guid: e0a4466d42f944746aea10ac0b9017ce, type: 3}
+  - {fileID: 12800000, guid: 6a361cd0bab859c418c29fc516808579, type: 3}
+  - {fileID: 12800000, guid: ab6977a8d1dc9664a81205e6ba29ff0c, type: 3}
+  - {fileID: 12800000, guid: 4cee4f84b859c97438c7ac7e07b56f17, type: 3}
+  - {fileID: 12800000, guid: 3932cd4fa02769347b2df0fca26cccde, type: 3}
+  - {fileID: 12800000, guid: 916af16e2e2f6aa49b29c1021c25e8f0, type: 3}
+  - {fileID: 12800000, guid: 060539425dc673a4880a8fafbfc1b46b, type: 3}
+  - {fileID: 12800000, guid: eb49d8148e57bcf47be7b0ccf8d8effc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
